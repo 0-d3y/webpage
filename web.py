@@ -63,4 +63,4 @@ slect=input("\033[0;96m\n\n[-] To exit the tool, press (x), to restart the tool,
 if slect == "y":
 os.system("python web.py")
 else:
-os.system("exsit")
+os.system("exit")
